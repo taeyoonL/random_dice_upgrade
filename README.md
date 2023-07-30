@@ -6,3 +6,5 @@
 2. 그러나, 'random_dice'와 달리, 상단의 *'Random_Dice_Game'의 제목*을 가지고 있는 앱 바의 **오른쪽 끝에 있는 버튼**을 누르면, *이 게임에 대한 간단한 설명*을 담고 있는 **팝업 창**이 화면에 나타나게 된다.
 
 # 실행 화면
+
+![ezgif com-video-to-gif (21)](https://github.com/taeyoonL/random_dice_upgrade/assets/132141316/b1c5a73f-ec48-4756-81fe-870bb32f0682)
